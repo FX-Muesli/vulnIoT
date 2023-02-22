@@ -1,0 +1,21 @@
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+[submodule "meta-openembedded-core"]
+	path = meta-openembedded-core
+	url = https://git.openembedded.org/openembedded-core
+[submodule "meta-clang"]
+	path = meta-clang
+	url = https://github.com/kraj/meta-clang.git
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi.git
+[submodule "meta-selinux"]
+	path = meta-selinux
+	url = https://git.yoctoproject.org/meta-selinux
+[submodule "meta-sploitable"]
+	path = meta-sploitable
+	url = ssh://git@bitbucket.vwinf.vw.vwg:22/~uy8sfsd/meta-sploitable.git
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = git://git.yoctoproject.org/meta-virtualization
