@@ -19,6 +19,7 @@ Currently supported Vulnerabilities:
 - [Damn Vulnerable Web application](https://github.com/digininja/DVWA)
 - weak password login via ssh
 
+This project was created during my masters thesis. I want to use this place to thank Volkswagen Infotainment for supporting this work and allowing me to make it publicly accessible.
 
 Contribution Guidelines
 -----------------------
