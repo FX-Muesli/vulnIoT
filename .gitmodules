@@ -15,7 +15,7 @@
 	url = https://git.yoctoproject.org/meta-selinux
 [submodule "meta-sploitable"]
 	path = meta-sploitable
-	url = ssh://git@bitbucket.vwinf.vw.vwg:22/~uy8sfsd/meta-sploitable.git
+	url = https://bitbucket.vwinf.vw.vwg/scm/~uy8sfsd/meta-sploitable.git
 [submodule "meta-virtualization"]
 	path = meta-virtualization
 	url = git://git.yoctoproject.org/meta-virtualization
