@@ -1,3 +1,10 @@
+Exploitable IoT project Maintainer Information
+====
+Its just me. Reach me via github issues or pull requsts. I am not affiliated to the yocto project. 
+
+The yocto maintainer information as reference:
+
+
 OpenEmbedded-Core and Yocto Project Maintainer Information
 ==========================================================
 
